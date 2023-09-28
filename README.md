@@ -17,7 +17,7 @@ Pose repeatability:
 The coloumns represent the  x, y, z coordinates of the 2D laser sensor. X corresponds to the movement of the robot along the linear path. Data of the same x-value (in path accuracy calculation) represent one profile.
 
 ## Authors and acknowledgment
-Markus Gapp conducted the data acquisition. Anke Fischer-Janzen hosts the git. 
+Markus Gapp conducted the data acquisition. Anke Fischer-Janzen hosts the git. For questions and remarkings to the data please contact markus.gapp@hs-offenburg.de.
 
 ## License
 You may use this data for scientific, non-commercial purposes, provided that you give credit to the owners when publishing any work based on this data. We would also be very interested to hear back from you if you use our data in any way and are happy to answer any questions or address any remarks related to it. For citation use:
